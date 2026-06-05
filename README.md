@@ -53,13 +53,11 @@ Cinematic appearance
 Artistic style
 
 # original video:
- https://github.com/user-attachments/assets/27ae1f2d-29fd-41d6-a4a6-6137a9a16b72
-
+https://drive.google.com/file/d/1-pKPf5GW5v39Nj5v4u1RJg4ecqb3jPgc/view?usp=drivesdk
 # prompt:
 A sweeping cinematic drone shot gliding smoothly over a secluded, rugged coastline during a vibrant twilight. The sky transitions beautifully from a soft golden-orange at the horizon to a deep pastel pink and lavender above. A full, bright moon hangs low over a dark, silhouetted mountain range that curves into the ocean in the distance. Below, gentle waves with white seafoam roll over a wide, wet sandy beach and exposed dark volcanic rock formations. The wet sand perfectly reflects the gradient colors of the dusk sky. The camera maintains a low, steady forward tracking motion over the shoreline, capturing the serene, tranquil, and ethereal mood of the evening. 4k resolution, photorealistic, highly detailed texture of water and wet sand, 30fps.
 
-https://github.com/user-attachments/assets/b9bb6734-0dc2-41bd-a921-369560a6df0c
-
+(https://drive.google.com/file/d/1NL3mJENDNS6a7x-2aJgHiwSow6cT9AnZ/view?usp=drivesdk)
 # Result
 
 The experiment demonstrates that prompt structure plays a major role in AI video generation quality. Detailed prompts containing scene composition, camera movement, lighting, atmosphere, textures, and cinematic instructions generate significantly better and more realistic videos than simple prompts.
